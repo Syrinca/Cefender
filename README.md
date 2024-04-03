@@ -7,8 +7,8 @@ Cefender antivirus is designed to detect and remove malicious programs through c
 1. Run Cefender.exe in the Cefender folder.
 2. Upon running the script, you will see a welcome message and a menu of actions.
 3. Choose an action by entering the corresponding number:
-   1: Perform a disk scan for malicious files.
-   2: Exit the script.
+   - Perform a disk scan for malicious files.
+   - Exit the script.
 4. To initiate a scan, select "1" and wait for the scanning process to complete.
 5. After the scan, you will be prompted to delete the detected malicious files or exit the script.
 6. If you choose to delete the files, the script will commence the deletion process.
