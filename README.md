@@ -16,9 +16,9 @@ Cefender antivirus is designed to detect and remove malicious programs through c
    
 5. After the scan, you will be prompted to delete the detected malicious files or exit the antivirus.
 
-6. If you choose to delete the files, the script will commence the deletion process.
+6. If you choose to delete the files, the antivirus will commence the deletion process.
    
-7. Upon successful deletion of the files, the script will display a message confirming the completion.
+7. Upon successful deletion of the files, the antivirus will display a message confirming the completion.
    
 8. Press any key to exit the antivirus.
 
