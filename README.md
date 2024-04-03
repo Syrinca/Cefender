@@ -1,31 +1,25 @@
 # Cefender
 
-### Назначение
-Антивирус Cefender для обнаружения и удаления вредоносных программ через консольное управление в операционной системе Windows.
+### Purpose
+Cefender antivirus is designed to detect and remove malicious programs through console management in the Windows operating system.
 
-### Использование
-1. Запустите Cefender.exe в папке Cefender.
-   
-3. После запуска скрипта вы увидите приветственное сообщение и меню действий.
-   
-5. Выберите действие, введя соответствующую цифру:
-    1: Выполнить сканирование диска на вредоносные файлы.
-    2: Выйти из скрипта.
-6. Для сканирования выберите “1” и дождитесь завершения процесса сканирования.
-   
-8. После завершения сканирования вам будет предложено удалить обнаруженные вредоносные файлы или выйти из скрипта.
-   
-10. Если выбрано удаление файлов, скрипт начнет процесс удаления.
-    
-12. По завершении удаления файлов скрипт выведет сообщение о успешном удалении.
-    
-14. Нажмите любую клавишу для завершения работы антивируса.
+### Usage
+1. Run Cefender.exe in the Cefender folder.
+2. Upon running the script, you will see a welcome message and a menu of actions.
+3. Choose an action by entering the corresponding number:
+   1: Perform a disk scan for malicious files.
+   2: Exit the script.
+4. To initiate a scan, select "1" and wait for the scanning process to complete.
+5. After the scan, you will be prompted to delete the detected malicious files or exit the script.
+6. If you choose to delete the files, the script will commence the deletion process.
+7. Upon successful deletion of the files, the script will display a message confirming the completion.
+8. Press any key to exit the antivirus.
 
-### Требования
-- Операционная система Windows.
+### Requirements
+- Windows operating system.
 
-### Автор
-Скрипт разработан Syrinca.
+### Author
+The script is developed by Syrinca.
 
-### Лицензия
-Этот скрипт распространяется под The GNU General Public License v3.0.
+### License
+This script is distributed under The GNU General Public License v3.0.
