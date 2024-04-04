@@ -1,4 +1,6 @@
 # Cefender
+<p align="center">
+  <img src="https://github.com/Syrinca/Cefender/assets/165695271/0f4d6f5c-b3a2-445c-8594-9e5203e1b72a" alt="Logo">
 
 ### Purpose
 Cefender antivirus is designed to detect and remove malicious programs through console management in the Windows operating system.
