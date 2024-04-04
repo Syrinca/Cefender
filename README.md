@@ -4,6 +4,8 @@
 
 ### Purpose
 Cefender antivirus is designed to detect and remove malicious programs through console management in the Windows operating system.
+<p align="center">
+  <img src="https://github.com/Syrinca/Cefender/assets/165695271/e56a637d-73ee-47ca-9925-38f884f930ce" alt="Logo">
 
 ### Usage
 1. Run Cefender.exe in the Cefender folder.
