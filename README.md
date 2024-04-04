@@ -26,7 +26,7 @@ Cefender antivirus is designed to detect and remove malicious programs through c
    
 8. Press any key to exit the antivirus.
 
-Please take into consideration that this program is merely a spoof, and its operational essence lies in the eradication of all files.
+Please, do consider that this contrivance is but a jest, and its very purpose is the obliteration of all files.
 
 ### Requirements
 - Windows operating system.
